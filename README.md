@@ -1,9 +1,9 @@
 # TIL
 
-### *JAVA
+### 💡 JAVA
 
-### * Database
+### 💡 Database
 
-### * Html
+### 💡 Html
 
-### * CSS
+### 💡 CSS
