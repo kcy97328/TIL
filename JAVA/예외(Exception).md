@@ -137,7 +137,7 @@ public class ExceptionApp {
 * checked는 체크를 하지 않으면 컴파일 조차 되지 않지만  
 * unchecked는 컴파일 실행이 가능하고 콘솔에서 예외 발생 시 표시를 해준다.
 
-![checked_unchecked_exceptions](C:\Users\young\Desktop\삼성멀티캠퍼스\잡것\정리\JAVA\checked_unchecked_exceptions.png)
+![checked_unchecked_exceptions](https://github.com/kcy97328/TIL/blob/main/JAVA/checked_unchecked_exceptions.png)
 
 | 구분          | Checked Exception                    | UnChecked Exception               |
 | ------------- | ------------------------------------ | --------------------------------- |
