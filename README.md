@@ -1,6 +1,6 @@
 # TIL
 
-### * JAVA
+### *JAVA
 
 ### * Database
 
