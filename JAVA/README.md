@@ -1,4 +1,4 @@
-## 🐍 예외 (Exception)<br>
+## [🐍 예외 (Exception)](https://github.com/kcy97328/TIL/blob/main/JAVA/%EC%98%88%EC%99%B8(Exception).md)<br>
 
 
 
