@@ -214,7 +214,7 @@ public class TryWithResource {
 
 ### 👉 Throw
 
-![throw](C:\Users\young\Desktop\삼성멀티캠퍼스\잡것\정리\TIL\JAVA\throw.PNG)
+![throw](https://github.com/kcy97328/TIL/blob/main/JAVA/throw.PNG)
 
 * 위 사진처럼 예외를 위로 던지고 던지고 던지는것
 * 마지막에 try-catch를 사용하여 예외처리하면됨
